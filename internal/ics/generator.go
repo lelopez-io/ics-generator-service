@@ -6,6 +6,8 @@ import (
 	"io/ioutil"
 	"log"
 	"net/http"
+	"os"
+	"path/filepath"
 	"time"
 
 	ics "github.com/arran4/golang-ical"
@@ -58,6 +60,10 @@ func GenerateLocalICS(inputFile, outputFile string) {
 	icsContent, err := GenerateICS(events)
 	if err != nil {
 		log.Fatalf("Error generating ICS: %v", err)
+	}
+
+	if err := os.MkdirAll(filepath.Dir(outputFile), 0755); err != nil {
+		log.Fatalf("Error creating output directory: %v", err)
 	}
 
 	err = ioutil.WriteFile(outputFile, []byte(icsContent), 0644)
