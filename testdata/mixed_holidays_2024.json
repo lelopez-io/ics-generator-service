@@ -1,91 +1,91 @@
 [
     {
         "id": "new-years-day-2024",
-        "title": "New Year's Day",
+        "title": "US Federal Holiday - New Year's Day",
         "start": "2024-01-01",
         "end": "2024-01-01",
         "description": "New Year's Day is the first day of the year in the Gregorian calendar."
     },
     {
         "id": "mlk-day-2024",
-        "title": "Martin Luther King Jr. Day",
+        "title": "US Federal Holiday - Martin Luther King Jr. Day",
         "start": "2024-01-15",
         "end": "2024-01-15",
         "description": "Birthday of Martin Luther King Jr., celebrated on the third Monday of January."
     },
     {
         "id": "presidents-day-2024",
-        "title": "Presidents' Day",
+        "title": "US Federal Holiday - Presidents' Day",
         "start": "2024-02-19",
         "end": "2024-02-19",
         "description": "Washington's Birthday, also known as Presidents' Day, is a federal holiday celebrated on the third Monday of February."
     },
     {
+        "id": "ramadan-2024",
+        "title": "Islamic Holiday - Ramadan",
+        "start": "2024-03-10",
+        "end": "2024-04-08",
+        "description": "Ramadan is the ninth month of the Islamic calendar, observed by Muslims worldwide as a month of fasting, prayer, reflection and community."
+    },
+    {
         "id": "passover-2024",
-        "title": "Passover",
+        "title": "Jewish Holiday - Passover",
         "start": "2024-04-22",
         "end": "2024-04-30",
         "description": "Passover is a major Jewish holiday that celebrates the exodus of the Israelites from slavery in Egypt."
     },
     {
         "id": "memorial-day-2024",
-        "title": "Memorial Day",
+        "title": "US Federal Holiday - Memorial Day",
         "start": "2024-05-27",
         "end": "2024-05-27",
         "description": "Memorial Day is a federal holiday in the United States for remembering and honoring persons who have died while serving in the United States Armed Forces."
     },
     {
         "id": "independence-day-2024",
-        "title": "Independence Day",
+        "title": "US Federal Holiday - Independence Day",
         "start": "2024-07-04",
         "end": "2024-07-04",
         "description": "Independence Day, also called the Fourth of July, is a federal holiday commemorating the adoption of the Declaration of Independence on July 4, 1776."
     },
     {
-        "id": "ramadan-2024",
-        "title": "Ramadan",
-        "start": "2024-03-10",
-        "end": "2024-04-08",
-        "description": "Ramadan is the ninth month of the Islamic calendar, observed by Muslims worldwide as a month of fasting, prayer, reflection and community."
-    },
-    {
         "id": "labor-day-2024",
-        "title": "Labor Day",
+        "title": "US Federal Holiday - Labor Day",
         "start": "2024-09-02",
         "end": "2024-09-02",
         "description": "Labor Day is a federal holiday in the United States celebrated on the first Monday in September to honor and recognize the American labor movement."
     },
     {
         "id": "rosh-hashanah-2024",
-        "title": "Rosh Hashanah",
+        "title": "Jewish Holiday - Rosh Hashanah",
         "start": "2024-10-02",
         "end": "2024-10-04",
         "description": "Rosh Hashanah is the Jewish New Year. It's a two-day celebration that begins on the first day of Tishrei, the seventh month of the Jewish calendar."
     },
     {
         "id": "diwali-2024",
-        "title": "Diwali",
+        "title": "Hindu Holiday - Diwali",
         "start": "2024-10-31",
         "end": "2024-11-04",
         "description": "Diwali is the Hindu festival of lights, usually lasting five days and celebrated during the Hindu lunisolar month Kartika."
     },
     {
         "id": "thanksgiving-day-2024",
-        "title": "Thanksgiving Day",
+        "title": "US Federal Holiday - Thanksgiving Day",
         "start": "2024-11-28",
         "end": "2024-11-28",
         "description": "Thanksgiving Day is a national holiday in the United States, celebrated on the fourth Thursday of November."
     },
     {
         "id": "hanukkah-2024",
-        "title": "Hanukkah",
+        "title": "Jewish Holiday - Hanukkah",
         "start": "2024-12-25",
         "end": "2025-01-02",
         "description": "Hanukkah is a Jewish festival commemorating the rededication of the Second Temple in Jerusalem. It is also known as the Festival of Lights."
     },
     {
         "id": "christmas-day-2024",
-        "title": "Christmas Day",
+        "title": "Christian Holiday - Christmas Day",
         "start": "2024-12-25",
         "end": "2024-12-25",
         "description": "Christmas Day is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration."

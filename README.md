@@ -74,15 +74,23 @@ Example JSON format:
 ```json
 [
     {
-        "id": "event-1",
-        "title": "Event Title",
+        "id": "new-years-day-2024",
+        "title": "US Federal Holiday - New Year's Day",
         "start": "2024-01-01",
         "end": "2024-01-01",
-        "description": "Event description"
+        "description": "New Year's Day is the first day of the year."
+    },
+    {
+        "id": "thanksgiving-2024",
+        "title": "US Federal Holiday - Thanksgiving",
+        "start": "2024-11-28",
+        "end": "2024-11-29",
+        "description": "Thanksgiving Day and the day after."
     }
-    // ... more events
 ]
 ```
+
+**Tip:** Use a prefix like `US Federal Holiday - `, `Company Holiday - `, or `School Holiday - ` in the title to easily distinguish events on shared calendars.
 
 ### Configuration Files
 

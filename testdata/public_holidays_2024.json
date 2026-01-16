@@ -1,70 +1,70 @@
 [
     {
         "id": "new-years-day-2024",
-        "title": "New Year's Day",
+        "title": "US Federal Holiday - New Year's Day",
         "start": "2024-01-01",
         "end": "2024-01-01",
         "description": "New Year's Day is the first day of the year in the Gregorian calendar."
     },
     {
         "id": "mlk-day-2024",
-        "title": "Martin Luther King Jr. Day",
+        "title": "US Federal Holiday - Martin Luther King Jr. Day",
         "start": "2024-01-15",
         "end": "2024-01-15",
         "description": "Birthday of Martin Luther King Jr., celebrated on the third Monday of January."
     },
     {
         "id": "presidents-day-2024",
-        "title": "Presidents' Day",
+        "title": "US Federal Holiday - Presidents' Day",
         "start": "2024-02-19",
         "end": "2024-02-19",
         "description": "Washington's Birthday, also known as Presidents' Day, is a federal holiday celebrated on the third Monday of February."
     },
     {
         "id": "memorial-day-2024",
-        "title": "Memorial Day",
+        "title": "US Federal Holiday - Memorial Day",
         "start": "2024-05-27",
         "end": "2024-05-27",
         "description": "Memorial Day is a federal holiday in the United States for remembering and honoring persons who have died while serving in the United States Armed Forces."
     },
     {
         "id": "independence-day-2024",
-        "title": "Independence Day",
+        "title": "US Federal Holiday - Independence Day",
         "start": "2024-07-04",
         "end": "2024-07-04",
         "description": "Independence Day, also called the Fourth of July, is a federal holiday commemorating the adoption of the Declaration of Independence on July 4, 1776."
     },
     {
         "id": "labor-day-2024",
-        "title": "Labor Day",
+        "title": "US Federal Holiday - Labor Day",
         "start": "2024-09-02",
         "end": "2024-09-02",
         "description": "Labor Day is a federal holiday in the United States celebrated on the first Monday in September to honor and recognize the American labor movement."
     },
     {
         "id": "columbus-day-2024",
-        "title": "Columbus Day",
+        "title": "US Federal Holiday - Columbus Day",
         "start": "2024-10-14",
         "end": "2024-10-14",
         "description": "Columbus Day is a federal holiday commemorating the arrival of Christopher Columbus in the Americas in 1492."
     },
     {
         "id": "veterans-day-2024",
-        "title": "Veterans Day",
+        "title": "US Federal Holiday - Veterans Day",
         "start": "2024-11-11",
         "end": "2024-11-11",
         "description": "Veterans Day is a federal holiday in the United States observed annually on November 11, for honoring military veterans."
     },
     {
         "id": "thanksgiving-day-2024",
-        "title": "Thanksgiving Day",
+        "title": "US Federal Holiday - Thanksgiving Day",
         "start": "2024-11-28",
         "end": "2024-11-28",
         "description": "Thanksgiving Day is a national holiday in the United States, celebrated on the fourth Thursday of November."
     },
     {
         "id": "christmas-day-2024",
-        "title": "Christmas Day",
+        "title": "US Federal Holiday - Christmas Day",
         "start": "2024-12-25",
         "end": "2024-12-25",
         "description": "Christmas Day is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration."
